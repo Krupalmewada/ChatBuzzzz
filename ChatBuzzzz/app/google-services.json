@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696803125740",
+    "project_id": "chatapp-afe75",
+    "storage_bucket": "chatapp-afe75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696803125740:android:653aec2746b2c07685f8c9",
+        "android_client_info": {
+          "package_name": "com.example.chatbuzzzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbFuchAVnXd_V6Au17DV94HmVX8LDbLVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

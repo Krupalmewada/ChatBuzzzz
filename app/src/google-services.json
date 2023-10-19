@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131559155998",
+    "project_id": "fir-chat-bfb14",
+    "storage_bucket": "fir-chat-bfb14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131559155998:android:ee04dc88e37216e9fc010f",
+        "android_client_info": {
+          "package_name": "com.example.chatbuzzzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNA8u2lL_JtWCfIcgabL8ieFPFX7D9ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
